@@ -17,7 +17,7 @@ In your university welcome pack, you should have;
 
 ## Setting up your Arduino
 
-1. Download the [Arduino IDE](arduino.cc)
+1. Download the [Arduino IDE](https://arduino.cc)
 2. Install the libraries for the Arduino MKR NB 1500
  1. Open the Arduino boards manager
 
