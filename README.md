@@ -18,22 +18,16 @@ In your university welcome pack, you should have;
 ## Setting up your Arduino
 
 1. Download the [Arduino IDE](arduino.cc)
-2. Install the libraries for the Arduino MKR NB 1500
- 1. Open the Arduino boards manager
-
- ![arduino-boards-manager-menu]
-
- 2. Search for "MKR" and install the libraries for the MKR NB 1500
-
- ![arduino-boards-manager-window]
-
- 3. Select "Arduino MKR NB 1500" from the boards menu.
- 
- ![arduino-select-nb1500]
-
-3. Connect your Arduino to your computer
-4. Put your SIM card in the Arduino
-5. Test your board using the _Test Modem_ sketch under File > Examples > MKRNB > Tools
+1. Install the Arduino MKR NB 1500 board;
+    1. Open the Arduino boards manager  
+    ![arduino-boards-manager-menu]
+    1. Search for "MKR" and install the libraries for the MKR NB 1500  
+    ![arduino-boards-manager-window]
+    1. Select "Arduino MKR NB 1500" from the boards menu.  
+    ![arduino-select-nb1500]
+1. Connect your Arduino MKR NB 1500 to your computer
+1. Put your SIM card in the Arduino
+1. Test your board using the _Test Modem_ sketch under File > Examples > MKRNB > Tools
 
 
 ### Using the GPS module
