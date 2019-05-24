@@ -2,17 +2,16 @@
 Everything you need to get started on the 2019 Telstra Innovation Challenge
 
 
-## What's in the University Kit?
+## What's in the Innovation Challenge Kit?
 
 In your university welcome pack, you should have;
 - 1x Arduino MKR NB 1500
+- 1x Arduino MKR ENV Shield
 - 1x Adafruit Ultimate GPS board 
-- 1x GPS antenna
-- 1x Temperature and Humidity Sensor
-- 1x Gyroscope and Accelerometer board
 - 1x Telstra Sim Card
 - 1x Micro-USB Cable
 - Several Header Connectors (Male-Female) 
+- (Optional) 1x $100 Microsoft Azure Pass
 
 
 ## Setting up your Arduino
@@ -30,26 +29,21 @@ In your university welcome pack, you should have;
 1. Test your board using the _Test Modem_ sketch under File > Examples > MKRNB > Tools
 
 
+### Using the Arduino MKR ENV Shield
+
+[See Arduino's guide for using the MKR ENV shield](https://www.arduino.cc/en/Guide/MKRENVShield)
+
+
 ### Using the GPS module
 
 [See Adafruit's guide for using the GPS module](https://learn.adafruit.com/adafruit-ultimate-gps/arduino-wiring)
 
 
-### Using the temperature and humidity sensor
+## Connecting your Arduino to Microsoft Azure IoT
 
-[See Adafruit's guide for using the temeperature and humidity sensor](https://learn.adafruit.com/dht/using-a-dhtxx-sensor)
+[Redeem your Microsoft Azure pass](https://www.microsoftazurepass.com/)
 
-Note that you have been supplied a *DHT11* temperature and humitidy sensor.
-
-
-### Using the gyroscope and accelerometer board
-
-[See this guide for using the gyroscope and accelerometer board](https://electrosome.com/interfacing-mpu-6050-gy-521-arduino-uno/)
-
-
-## Connect your Arduino to Microsoft Azure IoT
-
-[See this guide for connecting your Arduino to Microsoft Azure IoT](https://github.com/telstra/TIC2019-Azure-Guide)
+[See this guide to connect your Arduino to Microsoft Azure IoT](https://github.com/telstra/TIC2019-Azure-Guide)
 
 
 
