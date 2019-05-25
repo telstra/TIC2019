@@ -4,7 +4,7 @@ Everything you need to get started on the 2019 Telstra Innovation Challenge
 
 ## What's in the Innovation Challenge Kit?
 
-In your university welcome pack, you should have;
+In your welcome pack, you should have;
 - 1x Arduino MKR NB 1500
 - 1x Arduino MKR ENV Shield
 - 1x Adafruit Ultimate GPS board 
